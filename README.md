@@ -7,5 +7,5 @@ Here there are some files I have made to practice C. For these files to run it's
 - Create a C file: (File >New File > C File)
 - Save the file: Let's pretend the name is `hello_world.c`
 - Go to the terminal: RStudio comes with a terminal, is near the tabs "Console" and "Jobs"
-- Compile the file: Type in the terminal `MAKE hello_world` (without the extension)
+- Compile the file: Type in the terminal `make hello_world` (without the extension)
 - Run your program: Type in the terminal `./hello_world`
